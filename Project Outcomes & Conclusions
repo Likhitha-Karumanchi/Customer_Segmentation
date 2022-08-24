@@ -1,0 +1,17 @@
+# Project Outcomes & Conclusions
+
+
+Here are some of the key outcomes of the project:
+
+
+        1.  The Dataset was large enough summing around 5.4 lakh samples & we used a 10k subsamples for creation of the model.
+        
+        2.  For the segmentation we used RMF Technique to create working table as it is most common segmentation technique.
+        
+        3.  Visualising the distribution of data & their relationships, helped us to get some insights on the relationship between the feature-set.
+        
+        4.  Appropriate Transformations were applied on the data to satisfy the key assumptions. Followed by Standardization.
+        
+        5.  K Means algorithm was applied and appropriate cluster number was selected using Elbow Plot.
+        
+        6.  The results were interepreted by calculating the cluster means & it was visualised with help of snake plot.
